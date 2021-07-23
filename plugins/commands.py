@@ -72,7 +72,7 @@ async def start(client, message):
     buttons = [
         [
         InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-        InlineKeyboardButton('🤖 Other Bots', url='https://t.me/subin_works/122'),
+        InlineKeyboardButton('🤖 our Grup', url='https://t.me/Tamil_New_Movies_RG '),
     ],
     [
         InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/subinps'),
